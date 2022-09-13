@@ -1,0 +1,10 @@
+name: TwitchRoulette
+version: '1.0'
+main: fr.arcane.twitchroulette.TwitchRoulette
+api-version: 1.17
+authors: [ Arcane ]
+description: Roulette Twitch pour PokeDraco
+commands:
+  roulette:
+    description: Commande centrale du plugin
+    permission: twitchroulette.roulette
